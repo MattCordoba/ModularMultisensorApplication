@@ -15,7 +15,7 @@ python-dateutil==2.4.2
 python-pptx==0.5.7
 pytz==2015.2
 pyvisa==1.8.dev0
-pywin32==219
+pywin32==301
 scipy==0.15.1
 six==1.9.0
 uptime==3.0.1
